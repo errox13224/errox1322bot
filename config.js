@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['4915251511168', 'A39 F1', true],
+  ['000000000000', '', true], 
   [''] 
 ] //Number of owners
 
@@ -43,17 +43,17 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
-  'https://api.neoxr.my.id': `${keysneoxr}`,	
+  'https://api.neoxr.my.id': `${f1 errox1322}`,	
   'https://violetics.pw': 'beta',
-  'https://zenzapis.xyz': `${keysxxx}`, 
+  'https://zenzapis.xyz': `${f1 errox1322}`, 
   'https://api-fgmods.ddns.net': 'fg-dylux'
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ errox-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'errox┃ᴮᴼᵀ' 
+global.author = '@f1 errox' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
